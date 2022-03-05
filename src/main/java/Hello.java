@@ -4,7 +4,7 @@ public class Hello {
     }
     public static void sayHello() {
         System.out.println("hi,git");
-        System.out.println("zxk11111111lds");
+        System.out.println("zxk222lds");
         System.out.println("lds");
     }
 
