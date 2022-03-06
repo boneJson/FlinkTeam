@@ -5,5 +5,6 @@
 public class LDS {
     public static void main(String[] args) {
         System.out.println("lds");
+        System.out.println("lds001");
     }
 }
